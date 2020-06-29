@@ -1,0 +1,67 @@
+.main{
+    border: 2px solid rgb(99, 68, 68);
+    margin: 0 auto;
+    width: 320px;
+    border-radius: 5px;
+
+}
+.output{
+    width: 97%;
+    background-color: black ;
+    color: white;
+    height: 70px;
+    border-radius: 10px;
+    margin: 0px 3px 15px 2px;
+   
+}
+.on-btn{
+    margin: 3px 0px;
+    background-color: #a91e6b;
+    border-radius: 20%;
+    color: white;
+    padding: 5px;
+    width:60px ;
+
+
+}
+.btn-bg{
+    background-color:  grey;
+}
+.btn-top{
+    background-color: #6a1253;
+    color: white;
+    border-radius: 20%;
+    padding: 10px;
+    border:  1px solid gray;
+    width:60px ;
+    height: 50px;
+    font-weight: bold;
+    font-size: medium;
+    margin: 2px 0px;
+
+
+}
+
+.btn{
+    width:60px ;
+    background-color: #ed6bad;
+    color: white;
+    border-radius: 20%;
+    padding: 10px;
+    border:  1px solid gray;
+    height: 50px;
+    font-weight: bold;
+    font-size: medium;
+
+}
+.btn-center{
+    width:60px ;
+    background-color: #a91e6b;
+    color: white;
+    border-radius: 20%;
+    padding: 10px;
+    border:  1px solid gray;
+    height: 50px;
+    font-weight: bold;
+    font-size: medium;
+}
